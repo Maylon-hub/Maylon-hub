@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [MENTOR UFSCar](https://github.com/Maylon-hub/MENTOR)
 
-- 👨‍💻 All of my projects are available at [https://linkedin.com/in/maylonmartins](https://linkedin.com/in/maylonmartins)
+- 👨‍💻 All of my projects are available at [https://github.com/Maylon-hub](https://github.com/Maylon-hub)
 
 - 📝 I regularly write articles on [https://linkedin.com/in/maylonmartins](https://linkedin.com/in/maylonmartins)
 

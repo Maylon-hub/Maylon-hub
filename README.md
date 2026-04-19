@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://linkedin.com/in/maylonmartins](https://linkedin.com/in/maylonmartins)
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Science**, **Software Engineering** and **Videogames**
 
 - 📫 How to reach me **maylonmartins08@gmail.com**
 
